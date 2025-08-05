@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710858823858",
+    "project_id": "bookstore-144f1",
+    "storage_bucket": "bookstore-144f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710858823858:android:be6462c7416cafd42251ab",
+        "android_client_info": {
+          "package_name": "com.codeforany.book_grocer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710858823858-el2pli0n63rqnfpcmvakqn16tijpa1b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6uo7t51cXs6z0pNc93Rp62DBJKDCNzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710858823858-702g8hpj1nkfp3b9govb4dcidpag8sim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codeforany.bookGrocer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

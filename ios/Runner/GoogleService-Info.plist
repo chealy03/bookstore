@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>710858823858-702g8hpj1nkfp3b9govb4dcidpag8sim.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.710858823858-702g8hpj1nkfp3b9govb4dcidpag8sim</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEXFC6LTgqC75vvbDt3E_rGzjOnqh6sWc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>710858823858</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codeforany.bookGrocer</string>
+	<key>PROJECT_ID</key>
+	<string>bookstore-144f1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookstore-144f1.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:710858823858:ios:928880033fd774132251ab</string>
+	<key>DATABASE_URL</key>
+	<string>https://bookstore-144f1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
